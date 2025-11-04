@@ -1,0 +1,21 @@
+# Desenvolvimento de um sistema web para cursos online e questionáros 
+
+O Desenvolvimento de sistemas web para cursos online e questionários é uma área em crescimento , impulsionada pela demanda por educaçao a distancia e personalizda.
+
+Requisitos  funcionais 
+RF01.O sistema deve cadastrar e gerenciar os  recursos
+RF02.O sistema deve cadastrar e gerenciar os  alunos 
+RF03.Criar e gerenciar os questionários  
+RF04.O Sistema deve gerenciar  a funcao de avaliar e feedback
+RF05.O sistema dece Relatar e analisar os  dados 
+
+Requisitos não funcionais
+RNF1.O sistema deve garantir a segurança e privacidade dos dados 
+RNF2.O sistema dece ser fácil de usar e navegar para os alunos e professores 
+RNF3.O Sistema deve ser capaz de lidar com um grande número de usuários e cursos simultaneamemte
+
+## Conclusão 
+
+O desenvolvimento de um sistema web para cursos online e questionários é um projecto complexo que requer uma abordagem cuidadosa e detalhada.
+
+
